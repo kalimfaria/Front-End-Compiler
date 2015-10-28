@@ -1,0 +1,35 @@
+void myfunc ( )
+{
+	int i;
+	i = 0;
+	if ( i < 50 )
+		return 20.1;
+}
+
+void ilovecookies (int a, int c)
+{
+	int a;
+	int d;
+	int c;
+	int e;
+	int b;
+	a = 20;
+	b = 30;
+	if ( a < 20 )
+	{
+		a = a * 10;
+		b = b * 20;
+	}
+	else if ( a < 20 || 2 > 3 )
+	{
+		a = 20;
+	}
+	else else
+		e = 9 * 45;
+		break;
+		return 20;
+}
+void main ()
+{
+	return 0;
+}
